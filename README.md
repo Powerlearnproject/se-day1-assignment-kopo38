@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 sotware engineering is a computer science field that involves the design, development,maintenance of software.
-it provides a structured approach to designing, developing and maintaining realiable, eficient, and scalable software solutions.
+it provides a structured approach to designing, developing and maintaining realiable, eficient, and scalable software solutions. 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
